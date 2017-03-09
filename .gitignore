@@ -1,4 +1,4 @@
-*.swp
+*.cpp.swp
 *.d
 
 # Compiled Object files
